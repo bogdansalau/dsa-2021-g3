@@ -2,6 +2,21 @@
 
 Data Structures and Algorithms lab repository
 
+## Lab Structure
+
+### Lab02
+
+⚠️⚠️⚠️ IMPORTANT 
+
+Pull Requests name must follow the following pattern: Lab## \<nume\> \<prenume\>
+
+Ex1: Lab02 Salau Bogdan
+
+Ex2: Lab02 Salau Bogdan Extra
+
+Deadline until 28.02.2021, 20:00 for making a PR on GitHub with what you've worked.
+Deadline until 4.03.2021, 8:00 for making a PR on GitHub with the extra assignment if you finished the basic mandatory problems.
+
 ## Grading
 
 There will be 2 laboratory tests, one about Data Structures and one about Algorithms.
@@ -28,10 +43,12 @@ Each lab will have proposed problems which you will have to solve and upload it 
 
 ### GIT Tutorials
 
-Our git workflow: [DSA lab workflow - part 1](https://youtu.be/n3QPlHes4EM)
-Our git workflow: [How I see PRs - part 2](https://youtu.be/8VU5SKvNnNo)
+Our git workflow:
+ [DSA lab workflow - part 1](https://youtu.be/n3QPlHes4EM)
+ [How I see PRs - part 2](https://youtu.be/8VU5SKvNnNo)
 
 * 1 - [Installing GIT](https://git-scm.com/downloads)
 * 2 - [Fork and Clone](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 * 3 - [Commit and Push](https://docs.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line)
 * 4 - [Pull Request](https://yangsu.github.io/pull-request-tutorial/)
+
